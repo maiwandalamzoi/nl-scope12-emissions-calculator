@@ -1,0 +1,64 @@
+scope,subsection,name,value_kg_co2e_per_unit,value_basis,wtt_kg_co2e_per_unit,biogenic_kg_co2e_per_unit,unit
+1,Fossiele brandstoffen,Benzine (fossiel) E0,3.059,WTW (well-to-wheel),0.685,0.0,liter
+1,Fossiele brandstoffen,Diesel (fossiel) B0,3.462,WTW (well-to-wheel),0.816,0.0,liter
+1,Fossiele brandstoffen,GTL (diesel),3.263,WTW (well-to-wheel),0.803,0.0,liter
+1,Fossiele brandstoffen,CNG (aardgas),2.831,WTW (well-to-wheel),0.585,0.0,kg
+1,Fossiele brandstoffen,LNG (aardgas),3.651,WTW (well-to-wheel),0.706,0.0,kg
+1,Fossiele brandstoffen,LPG,1.792,WTW (well-to-wheel),0.167,0.0,liter
+1,Fossiele brandstoffen,MDO (Marine Diesel Oil),3.436,WTW (well-to-wheel),0.717,0.0,liter
+1,Fossiele brandstoffen,HFO (Heavy Fuel Oil),3.762,WTW (well-to-wheel),0.652,0.0,liter
+1,Fossiele brandstoffen,Kerosine (Jet A1),3.228,WTW (well-to-wheel),0.696,0.0,liter
+1,Fossiele brandstoffen,Waterstof Grijs,12.516,WTW (well-to-wheel),12.516,0.0,kg
+1,Fossiele brandstoffen,Methanol (fossiel),1.607,WTW (well-to-wheel),0.501,0.0,liter
+1,Fossiele brandstoffen met bio-bijmenging,Benzine E10,2.794,WTW (well-to-wheel),0.655,0.149,liter
+1,Fossiele brandstoffen met bio-bijmenging,Diesel B7,3.251,WTW (well-to-wheel),0.788,0.176,liter
+1,Fossiele brandstoffen met bio-bijmenging,Dieselvervanger HVO30,2.558,WTW (well-to-wheel),0.7,0.734,liter
+1,Fossiele brandstoffen met bio-bijmenging,Benzinevervanger E85,0.807,WTW (well-to-wheel),0.434,1.266,liter
+1,Hernieuwbare brandstoffen,Waterstof groen,1.092,WTW (well-to-wheel),1.092,0.0,kg
+1,Hernieuwbare brandstoffen,Biodiesel HVO,0.468,WTW (well-to-wheel),0.442,2.446,liter
+1,Hernieuwbare brandstoffen,Biodiesel FAME,0.445,WTW (well-to-wheel),0.42,2.509,liter
+1,Hernieuwbare brandstoffen,Bio-CNG (Groengas),0.604,WTW (well-to-wheel),0.494,2.136,kg
+1,Hernieuwbare brandstoffen,Bio-LNG (Groengas),0.595,WTW (well-to-wheel),0.45,2.754,kg
+1,Hernieuwbare brandstoffen,Bio-Ethanol (100%),0.409,WTW (well-to-wheel),0.39,1.49,liter
+1,Hernieuwbare brandstoffen,Bio-Kerosine (SAF),0.259,WTW (well-to-wheel),0.241,2.477,liter
+1,Hernieuwbare brandstoffen,Methanol (bio),0.238,WTW (well-to-wheel),0.238,1.106,liter
+1,Hernieuwbare brandstoffen,E-Methanol (groene stroom),0.086,WTW (well-to-wheel),0.086,1.106,liter
+1,Hernieuwbare brandstoffen,Ad Blue (additief),0.26,"TTW (combustion only, no WTW reported)",,,liter
+1,Gasvormige brandstoffen,Aardgas (G-gas),2.134,WTW (well-to-wheel),0.355,0.0,Nm3
+1,Gasvormige brandstoffen,Groengas (Gemiddeld),0.305,WTW (well-to-wheel),0.305,1.779,Nm3
+1,Gasvormige brandstoffen,Groen gas (Monomestvergisting),0.175,WTW (well-to-wheel),0.175,1.779,Nm3
+1,Gasvormige brandstoffen,Groen Gas (Allesvergisting),0.357,WTW (well-to-wheel),0.357,1.779,Nm3
+1,Gasvormige brandstoffen,Groengas (Slibvergisting - RWZI),0.859,WTW (well-to-wheel),0.859,1.779,Nm3
+1,Gasvormige brandstoffen,Propaan,1.725,WTW (well-to-wheel),0.1954,0.0,liter
+1,Gasvormige brandstoffen,Biopropaan,0.509,WTW (well-to-wheel),0.509,1.53,liter
+1,Vloeibare brandstoffen,Aardgascondensaat,2.825,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Bitumen,3.381,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Chemisch restgas,2.793,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Ethaan,2.784,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Leisteenolie,2.793,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Nafta's,3.225,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Orimulsion,2.118,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Overige Oliën,2.947,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Petroleum,3.099,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Petroleumcokes,3.432,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Raffinaderij Grondstoffen,3.152,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Raffinaderijgas,2.911,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Ruwe Aardolie,3.13,"TTW (combustion only, no WTW reported)",,,kg
+1,Vloeibare brandstoffen,Smeeroliën,3.035,"TTW (combustion only, no WTW reported)",,,kg
+1,Vaste Brandstoffen,Antraciet,2.88,"TTW (combustion only, no WTW reported)",,,kg
+1,Vaste Brandstoffen,Bruinkool,2.02,"TTW (combustion only, no WTW reported)",,,kg
+1,Vaste Brandstoffen,Cokeskolen,2.688,"TTW (combustion only, no WTW reported)",,,kg
+1,Vaste Brandstoffen,Cokeskolen (cokeovens),2.728,"TTW (combustion only, no WTW reported)",,,kg
+1,Vaste Brandstoffen,Cokeskolen (hoogovens),2.568,"TTW (combustion only, no WTW reported)",,,kg
+1,Vaste Brandstoffen,Steenkool (bitumineus),2.25,"TTW (combustion only, no WTW reported)",,,kg
+1,Vaste Brandstoffen,Steenkool (sub-bitumineus),1.816,"TTW (combustion only, no WTW reported)",,,kg
+1,Vaste Brandstoffen,Steenkool en bruinkool briketten,2.018,"TTW (combustion only, no WTW reported)",,,kg
+1,Vaste Brandstoffen,Turf,1.035,"TTW (combustion only, no WTW reported)",,,kg
+2,Elektriciteit,Grijze Stroom,0.483,WTW (well-to-wheel),0.082,0.002,kWh
+2,Elektriciteit,Stroom (onbekend) gridmix,0.244,WTW (well-to-wheel),0.044,0.016,kWh
+2,Elektriciteit,Windkracht,0.0,WTW (well-to-wheel),0.0,0.016,kWh
+2,Elektriciteit,Zonne-energie,0.0,WTW (well-to-wheel),0.0,0.062,kWh
+2,Elektriciteit,Waterkracht,0.0,WTW (well-to-wheel),0.0,0.004,kWh
+2,Elektriciteit,Biomassa,0.071,WTW (well-to-wheel),0.071,0.002,kWh
+2,Warmtelevering,Gemiddelde Warmtenetten,40.45,WTW (well-to-wheel),6.14,,GJ
+2,Warmtelevering,Restwarmte zonder bijstook,11.3,WTW (well-to-wheel),2.0,,GJ
